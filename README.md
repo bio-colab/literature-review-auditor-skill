@@ -1,6 +1,10 @@
 <div align="right">
 
 # 📖 مِحَكّ الأدبيات والتأصيل
+
+> 🧠 بطاقة الدماغ (Obsidian): [[_brain/hubs/literature|literature]] · [[_brain/00-HOME|HOME]]
+
+
 ### `literature-review-auditor` — تدقيق مراجعة الأدبيات وتموضع البحث في المعرفة السابقة
 
 </div>
@@ -195,7 +199,7 @@ python -m scripts.package_skill path/to/literature-review-auditor
 جزءٌ من سلسلة **مِحَكّ (MIHAKK)** تحت منظّمة [**bio-colab**](https://github.com/bio-colab).
 المساهماتُ والملاحظاتُ مُرحَّبٌ بها عبر Issues و Pull Requests.
 
-> **الترخيص:** أضِف ملف `LICENSE` المناسب لمستودعاتك قبل النشر (لم يُفترَض ترخيصٌ هنا).
+> **الترخيص:** **MIT** (ملف `LICENSE`) اتساقاً مع بقيّة مستودعات مجموعة مِحَكّ.
 
 <div align="right">
 
